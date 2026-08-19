@@ -155,8 +155,8 @@ fun_fact: "I mass mass not class 🤣"
 <a href="https://github.com/aditya-s45/Irctc-Tatkal-Automation">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aditya-s45&amp;repo=Irctc-Tatkal-Automation&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
 </a>
-<a href="https://github.com/aditya-s45/Portfolio-Aditya">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aditya-s45&amp;repo=Portfolio-Aditya&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
+<a href="https://github.com/aditya-s45/PixelDeed">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aditya-s45&amp;repo=PixelDeed&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
 </a>
 
 </div>
