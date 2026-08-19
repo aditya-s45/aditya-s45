@@ -126,12 +126,12 @@ fun_fact: "I mass mass not class 🤣"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-s45&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa&amp;ring_color=00ffc8" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-s45&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa&amp;ring_color=00ffc8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aditya-s45&amp;theme=tokyonight&amp;hide_border=true&amp;background=0a0a0f&amp;ring=00ffc8&amp;fire=ff6b6b&amp;currStreakLabel=00ffc8&amp;sideLabels=a1a1aa&amp;dates=a1a1aa&amp;stroke=1e1e2e" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-s45&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;text_color=a1a1aa&amp;langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-s45&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;text_color=a1a1aa&amp;langs_count=8" />
 </div>
 
 ---
@@ -153,10 +153,10 @@ fun_fact: "I mass mass not class 🤣"
 <div align="center">
 
 <a href="https://github.com/aditya-s45/Irctc-Tatkal-Automation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-s45&amp;repo=Irctc-Tatkal-Automation&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aditya-s45&amp;repo=Irctc-Tatkal-Automation&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
 </a>
 <a href="https://github.com/aditya-s45/Portfolio-Aditya">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-s45&amp;repo=Portfolio-Aditya&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=aditya-s45&amp;repo=Portfolio-Aditya&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0a0f&amp;title_color=00ffc8&amp;icon_color=4d7cfe&amp;text_color=a1a1aa" />
 </a>
 
 </div>
