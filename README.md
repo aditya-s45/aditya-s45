@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Quick Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aditya-seven.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityashingare.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityashingare)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aditya_shingare)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adityaoncode/)
@@ -181,7 +181,7 @@ fun_fact: "I mass mass not class 🤣"
 
 <p>I'm always open to collaborating on exciting projects, hackathons, or just chatting about tech.</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://portfolio-aditya-seven.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://adityashingare.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:workaholicaditya4518@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adityashingare)
 
